@@ -117,4 +117,8 @@ p {
   .row {
     width: fit-content;
   }
+
+  .aboutMe {
+    font-size: medium;
+  }
 }
