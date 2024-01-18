@@ -112,6 +112,7 @@ p {
     width: 100px;
     justify-content: center;
     display: flex;
+    margin-left: auto;
   }
 
   .row {
