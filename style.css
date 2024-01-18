@@ -106,13 +106,12 @@ p {
 
 @media (max-width: 576px) {
   .text-center {
-    font-size: 50px;
+    font-size: 30px;
   }
   .navigation-links {
     width: 100px;
     justify-content: center;
     display: flex;
-    margin-left: auto;
   }
 
   .row {
@@ -120,6 +119,6 @@ p {
   }
 
   .aboutMe {
-    font-size: 50px;
+    font-size: 30px;
   }
 }
