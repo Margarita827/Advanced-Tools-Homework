@@ -109,7 +109,7 @@ p {
     font-size: medium;
   }
   .navigation-links {
-    width: 100px;
+    width: fit-content;
     justify-content: center;
     display: flex;
   }
