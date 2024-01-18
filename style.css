@@ -106,7 +106,7 @@ p {
 
 @media (max-width: 576px) {
   .text-center {
-    font-size: 30px;
+    font-size: medium;
   }
   .navigation-links {
     width: 100px;
@@ -119,6 +119,6 @@ p {
   }
 
   .aboutMe {
-    font-size: 30px;
+    font-size: medium;
   }
 }
